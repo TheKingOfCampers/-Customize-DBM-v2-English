@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheKingOfCampers/Customize-DBM-v2-French/archive/refs/heads/main.zip"</a>
+  <a href="https://github.com/TheKingOfCampers/Customize-DBM-v2-English/archive/refs/heads/main.zip"</a>
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092091889970319511/Download-Button.png" width="200">
 </p>
 
