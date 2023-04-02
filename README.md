@@ -5,7 +5,9 @@
 </p>
 
 
-<a href="https://discord.gg/HBc9u9tktd" rel="nofollow">DBM BRAZIL MODS</a> is a multi-language community dedicated to modifying, extending and improving <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a> we strive to unite communities from all countries, join us!
+<a href="https://discord.gg/HBc9u9tktd" rel="nofollow">DBM BRAZIL MODS</a> is a multi-language community dedicated to modifying, extending and improving <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a> 
+
+we strive to unite communities from all countries, join us!
 
 <h1 align="center">Description</h1>
 
