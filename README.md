@@ -29,7 +29,15 @@
 
 <h1 align="center">Screenshots</h1>
 
-<p align="center">in comming..</p>
+![Screen0](Screenshots/01.png)
+
+---
+![Screen1](Screenshots/02.png)
+
+---
+![Screen2](Screenshots/03.png)
+
+---
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
