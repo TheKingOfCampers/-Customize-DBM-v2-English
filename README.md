@@ -4,14 +4,20 @@
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092030014989553664/English-DBM.png" width="350" title="hover text">
 </p>
 
-
+<p align="center">
 <a href="https://discord.gg/HBc9u9tktd" rel="nofollow">DBM BRAZIL MODS</a> is a multi-language community dedicated to modifying, extending and improving <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a> 
-
-we strive to unite communities from all countries, join us!
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
 
 <h1 align="center">Description</h1>
 
 <p align="center">Fully customizable theme for Discord Bot Maker V2.0 translated in english</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
 
 <h1 align="center">Installation</h1>
 
@@ -25,11 +31,16 @@ we strive to unite communities from all countries, join us!
 
 <p align="center">in comming..</p>
 
-<h1 align="center">Credits</h1>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
 
 <h1 align="center">License</h1>
 <p align="center">Open Source</p>
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
 
 <h1 align="center">Credits</h1>
 <p align="center">
